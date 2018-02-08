@@ -1,6 +1,8 @@
 # Magic-8-Ball
+#
 
-import random
+
+import random 
 #list
 prediction = ['Not gonna happen!', 'Absolutely!', 'Guess you will have to wait and see...']
 #User prompt
